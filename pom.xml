@@ -117,7 +117,7 @@
         <repository>
             <id>yadda</id>
             <name>YADDA project repository</name>
-            <url>http://maven.icm.edu.pl/artifactory/repo</url>
+            <url>https://maven.ceon.pl/artifactory/repo</url>
         </repository>
     </repositories>
     <dependencyManagement>
